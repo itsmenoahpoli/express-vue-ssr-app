@@ -1,0 +1,19 @@
+{
+  "name": "express-vue-ssr-app",
+  "version": "1.0.0",
+  "description": "Vue ssr app in nodejs express",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmenoahpoli/express-vue-ssr-app.git"
+  },
+  "author": "Patrick Policarpio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmenoahpoli/express-vue-ssr-app/issues"
+  },
+  "homepage": "https://github.com/itsmenoahpoli/express-vue-ssr-app#readme"
+}
